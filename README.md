@@ -1,3 +1,5 @@
 # Frame-design
 using the AXIS VM
-Frame design is still in progress. I am trying to learn AXIS VM as well as possible. I am upload the latest version of my project.![Screenshot (21)](https://user-images.githubusercontent.com/115006824/193871600-4cc7c175-8b09-406a-ad7b-89d2f12370d5.png)
+Frame design is still in progress. I am trying to learn AXIS VM as well as possible. I am uploading the latest version of my project.
+
+![Screenshot (21)](https://user-images.githubusercontent.com/115006824/193872322-d99c6a38-5d28-4697-923b-0920ca4e2f19.png)
